@@ -168,7 +168,7 @@
         },
         {
             "category": "backend",
-            "image": "assets/images/Exam_Console_App.png",
+            "image": "assets/Images/Exam_Console_App.png",
             "name": "Exam Console App",
             "github": "https://github.com/Eman-MeMo/Examination-System",
             "desc": "Console app for managing and grading exams.",
