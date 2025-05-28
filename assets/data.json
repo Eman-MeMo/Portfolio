@@ -105,7 +105,7 @@
     "projects": [
         {
             "category": "full",
-            "image": "assets/images/Sanayii.png",
+            "image": "assets/Images/Sanayii.png",
             "name": "Sanayii",
             "github": "https://github.com/Sanayii",
             "desc": "smart web platform that connects clients with certified artisans through secure contracts, smart matchmaking, and real-time support",
@@ -114,7 +114,7 @@
         },
         {
             "category": "full",
-            "image": "assets/images/Ecommerce.png",
+            "image": "assets/Images/Ecommerce.png",
             "name": "Ecommerce",
             "github": "https://github.com/Eman-MeMo/Ecommerce",
             "desc": "Online store with auth, product, and order features.",
@@ -123,7 +123,7 @@
         },
         {
             "category": "db",
-            "image": "assets/images/Exam_Data_Manager.jpeg",
+            "image": "assets/Images/Exam_Data_Manager.jpeg",
             "name": "Exam Data Manager",
             "github": "https://github.com/Eman-MeMo/Examination-System-DB",
             "desc": "Structured DB with reports and auto grading.",
@@ -132,7 +132,7 @@
         },
         {
             "category": "frontend",
-            "image": "assets/images/Smart_Exam_Portal.png",
+            "image": "assets/Images/Smart_Exam_Portal.png",
             "name": "Smart Exam Portal",
             "github": "https://github.com/Eman-MeMo/Examination-System-JS",
             "desc": "A web platform for student exams with auto-evaluation.",
@@ -141,7 +141,7 @@
         },
         {
             "category": "full",
-            "image": "assets/images/Coffee_Store.png",
+            "image": "assets/Images/Coffee_Store.png",
             "name": "Coffee Store",
             "github": "https://github.com/Eman-MeMo/Coffee_Store",
             "desc": "A desktop app to manage inventory and sales.",
@@ -150,7 +150,7 @@
         },
         {
             "category": "frontend",
-            "image": "assets/images/Music_Player.png",
+            "image": "assets/Images/Music_Player.png",
             "name": "Music Player",
             "github": "https://github.com/Eman-MeMo/Music-Player",
             "desc": "Web audio player with playlist and controls.",
@@ -159,7 +159,7 @@
         },
         {
             "category": "frontend",
-            "image": "assets/images/Quiz_App.png",
+            "image": "assets/Images/Quiz_App.png",
             "name": "Quiz App",
             "github": "https://github.com/Eman-MeMo/Quiz-JS-App",
             "desc": "Quiz App is a simple, interactive app for taking quizzes and tracking scores.",
