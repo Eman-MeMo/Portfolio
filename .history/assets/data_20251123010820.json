@@ -1,0 +1,188 @@
+{
+    "skills": [
+        {
+            "name": "HTML",
+            "value": "97%"
+        },
+        {
+            "name": "CSS",
+            "value": "94%"
+        },
+        {
+            "name": "JavaScript",
+            "value": "90%"
+        },
+        {
+            "name": "Bootstrap",
+            "value": "85%"
+        },
+        {
+            "name": "JQuery",
+            "value": "85%"
+        },
+        {
+            "name": "TypeScript",
+            "value": "80%"
+        },
+        {
+            "name": "Angular",
+            "value": "80%"
+        },
+        {
+            "name": "SQL Server",
+            "value": "90%"
+        },
+        {
+            "name": "C#",
+            "value": "92%"
+        },
+        {
+            "name": "ADO.NET",
+            "value": "75%"
+        },
+        {
+            "name": "LINQ",
+            "value": "85%"
+        },
+        {
+            "name": "Entity Framework",
+            "value": "80%"
+        },
+        {
+            "name": "ASP.NET Core MVC",
+            "value": "90%"
+        },
+        {
+            "name": "ASP.NET Core Web API",
+            "value": "86%"
+        },
+        {
+            "name": "OOP & Data Structures",
+            "value": "90%"
+        },
+        {
+            "name": "Git & GitHub",
+            "value": "85%"
+        }
+    ],
+    "internships": [
+        {
+            "date": "Nov 2024 – Apr 2025",
+            "title": "Full Stack .NET Web Development",
+            "place": "Information Technology Institute (ITI)",
+            "desc": "Developed REST APIs using C# and ASP.NET Core, built Angular front-end components, and managed data with SQL Server and Entity Framework.",
+            "link": "https://drive.google.com/file/d/1DdMQ6NTJ3BdaznOTaO_cJ9ECaXLFjHwI/view?usp=sharing"
+        },
+        {
+            "date": "Jul 2023 – Aug 2023",
+            "title": "Backend Development - .NET",
+            "place": "Information Technology Institute (ITI)",
+            "desc": "Designed backend services using ASP.NET Core, implemented business logic, and managed database relationships with Entity Framework.",
+            "link": "https://drive.google.com/file/d/1qNwvO3l2rbWsogDj-MC7pvpcrOzcU9J5/view?usp=drive_link"
+        },
+        {
+            "date": "Apr 2023 – May 2023",
+            "title": "Frontend Web Developer Intern",
+            "place": "SYNC",
+            "desc": "Developed responsive web pages using HTML, CSS, and JavaScript.",
+            "link": "https://drive.google.com/file/d/1STpaayA2yjlZHm6VkIqbolGqKwDQLOSm/view?usp=drive_link"
+        },
+        {
+            "date": "Jun 2022 – Jul 2022",
+            "title": "Angular Development Intern",
+            "place": "Udacity (Ministry of Communications & IT)",
+            "desc": "Built single-page applications with Angular and TypeScript, implemented reusable components, and worked with Angular CLI, services, and reactive forms.",
+            "link": "https://drive.google.com/file/d/1cBXx_BLttu6HEbZtM6kivTHx1073iOAI/view?usp=drive_link"
+        },
+        {
+            "date": "May 2021 – May 2022",
+            "title": "Web Development Intern",
+            "place": "SCCI – Cairo University",
+            "desc": "Contributed to web development projects using HTML, CSS, and JavaScript.",
+            "link": "https://drive.google.com/file/d/1hrajgKv9FNl2PJRbAymIry9oEbmZk9k9/view?usp=drive_link"
+        }
+    ],
+    "projects": [
+        {
+            "category": "backend",
+            "image": "assets/Images/Clinic.png",
+            "name": "Clinic Management System",
+            "github": "https://github.com/Eman-MeMo/Clinic_Management_System", 
+            "desc": "A complete medical management platform that handles appointments, sessions, medical records, prescriptions, billing, and multi-role authentication using Clean Architecture and strong backend logic.",
+            "tech": "ASP.NET Core Web API, SQL Server, Identity, Clean Architecture, MediatorR, FluentValidation, Str,Serilog",
+            "demo": "http://clinic-management.runasp.net/"
+        },
+        {
+            "category": "full",
+            "image": "assets/Images/Sanayii.png",
+            "name": "Sanayii",
+            "github": "https://github.com/Sanayii",
+            "desc": "smart web platform that connects clients with certified artisans through secure contracts, smart matchmaking, and real-time support",
+            "tech": "SQL Server, Web API",
+            "demo": "https://drive.google.com/file/d/1gGgQHaad1S1Mdb4IzkznRN33eVwe-c-9/view?usp=sharing"
+        },
+        {
+            "category": "full",
+            "image": "assets/Images/Ecommerce.png",
+            "name": "Ecommerce",
+            "github": "https://github.com/Eman-MeMo/Ecommerce",
+            "desc": "Online store with auth, product, and order features.",
+            "tech": "SQL Server, ASP.NET Core MVC",
+            "demo": "https://drive.google.com/file/d/1WNK4NiR2G9VfyuYToy9NZUZOazt7vVIu/view?usp=sharing"
+        },
+        {
+            "category": "db",
+            "image": "assets/Images/Exam_Data_Manager.jpeg",
+            "name": "Exam Data Manager",
+            "github": "https://github.com/Eman-MeMo/Examination-System-DB",
+            "desc": "Structured DB with reports and auto grading.",
+            "tech": "Microsoft SQL Server, SSRS",
+            "demo": "https://drive.google.com/drive/folders/1LZLdJIxRKnO2hccGOJI3lWnZC3d2r86r?usp=sharing"
+        },
+        {
+            "category": "frontend",
+            "image": "assets/Images/Smart_Exam_Portal.png",
+            "name": "Smart Exam Portal",
+            "github": "https://github.com/Eman-MeMo/Examination-System-JS",
+            "desc": "A web platform for student exams with auto-evaluation.",
+            "tech": "HTML, CSS, JS",
+            "demo": "https://drive.google.com/file/d/1VkPUs7uIBr90-nO9z1XqCYnfDkr8rOQM/view?usp=drive_link"
+        },
+        {
+            "category": "full",
+            "image": "assets/Images/Coffee_Store.png",
+            "name": "Coffee Store",
+            "github": "https://github.com/Eman-MeMo/Coffee_Store",
+            "desc": "A desktop app to manage inventory and sales.",
+            "tech": "SQL Server, ADO.NET, Windows Forms",
+            "demo": "https://drive.google.com/file/d/1o4VENd2RC1REYXatX1WsPu-I_CVFzfGO/view?usp=drive_link"
+        },
+        {
+            "category": "frontend",
+            "image": "assets/Images/Music_Player.png",
+            "name": "Music Player",
+            "github": "https://github.com/Eman-MeMo/Music-Player",
+            "desc": "Web audio player with playlist and controls.",
+            "tech": "HTML, CSS, JS",
+            "demo": "https://drive.google.com/file/d/1yl4w9O3nQUtzeNx17msj3MJiuFlQeI84/view?usp=drive_link"
+        },
+        {
+            "category": "frontend",
+            "image": "assets/Images/Quiz_App.png",
+            "name": "Quiz App",
+            "github": "https://github.com/Eman-MeMo/Quiz-JS-App",
+            "desc": "Quiz App is a simple, interactive app for taking quizzes and tracking scores.",
+            "tech": "HTML, CSS, TypeScript, Angular",
+            "demo": "https://drive.google.com/file/d/13WP3DoZQtz5_OKBZoFSAvC_ukNGriP68/view?usp=drive_link"
+        },
+        {
+            "category": "backend",
+            "image": "assets/Images/Exam_Console_App.png",
+            "name": "Exam Console App",
+            "github": "https://github.com/Eman-MeMo/Examination-System",
+            "desc": "Console app for managing and grading exams.",
+            "tech": "C#, OOP",
+            "demo": "https://drive.google.com/file/d/1oZzmcfKHf5_QmLmfdXBjFppx8vkORcMR/view?usp=drive_link"
+        }
+    ]
+}
