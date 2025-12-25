@@ -67,7 +67,7 @@ function renderProjects(projects) {
             <p><strong>Technologies <br></strong> ${project.tech}</p>
             <div class="links">
             <a href="${project.demo}" target="_blank">Demo</a>
-            <a href="${project.sourceCode}" target="_blank">Source Code</a>
+            <a href="${project.github}" target="_blank">Source Code</a>
             </div>
         </div>`;
     });
@@ -111,4 +111,5 @@ function enableProjectFiltering() {
         });
     });
 }
+
 
