@@ -109,7 +109,7 @@
             "name": "Clinic Management System",
             "github": "https://github.com/Eman-MeMo/Clinic_Management_System", 
             "desc": "A complete medical management platform that handles appointments, sessions, medical records, prescriptions, billing, and multi-role authentication using Clean Architecture and strong backend logic.",
-            "tech": "ASP.NET Core Web API, SQL Server, Identity, Clean Architecture, MediatorR, FluentValidation, Strategy Design Pattern,Serilog",
+            "tech": "ASP.NET Core Web API, SQL Server, Identity, Clean Architecture, MediatorR, FluentValidation, Strategy Design Pattern, XUnit, Serilog, JWT Authentication",
             "demo": "https://drive.google.com/drive/folders/1l0FGy8sda8EzdngTGb7Aia9vZmXxRy3K?usp=drive_link"
         },
         {
@@ -118,7 +118,7 @@
             "name": "Sanayii",
             "github": "https://github.com/Sanayii",
             "desc": "smart web platform that connects clients with certified artisans through secure contracts, smart matchmaking, and real-time support",
-            "tech": "SQL Server, Web API",
+            "tech": "C#, ASP.NET Core Web API, Angular, ASP.NET MVC, SignalR, Identity, Entity Framework Core, SQL Server, Stripe, AI Chatbot, JWT Authentication",
             "demo": "https://drive.google.com/file/d/1gGgQHaad1S1Mdb4IzkznRN33eVwe-c-9/view?usp=sharing"
         },
         {
@@ -127,7 +127,7 @@
             "name": "Ecommerce",
             "github": "https://github.com/Eman-MeMo/Ecommerce",
             "desc": "Online store with auth, product, and order features.",
-            "tech": "SQL Server, ASP.NET Core MVC",
+            "tech": "ASP.NET Core MVC, Entity Framework Core, SQL Server, HTML5, CSS3, Bootstrap, JavaScript",
             "demo": "https://drive.google.com/file/d/1WNK4NiR2G9VfyuYToy9NZUZOazt7vVIu/view?usp=sharing"
         },
         {
@@ -195,4 +195,5 @@
         }
     ]
 }
+
 
