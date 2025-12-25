@@ -131,6 +131,15 @@
             "demo": "https://drive.google.com/file/d/1WNK4NiR2G9VfyuYToy9NZUZOazt7vVIu/view?usp=sharing"
         },
         {
+            "category": "full",
+            "image": "assets/Images/EbookSphere.png",
+            "name": "E-Book Sphere",
+            "github": "https://github.com/eBook-Sphere-2024",
+            "desc": "A comprehensive platform for creating, publishing, discovering, and reading eBooks, featuring multi-format export, collaboration, dashboards, and advanced semantic search.",
+            "tech": "Angular, Django REST Framework, Python, SQLite, ElasticSearch, Tesseract OCR, BERT, SentenceTransformer, WordNet, Google Gemini",
+            "demo": "#"
+        },
+        {
             "category": "db",
             "image": "assets/Images/Exam_Data_Manager.jpeg",
             "name": "Exam Data Manager",
@@ -186,3 +195,4 @@
         }
     ]
 }
+
