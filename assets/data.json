@@ -26,7 +26,7 @@
         "photo":  "assets/Images/me.png"
     },
     "about": {
-        "summary": "Full Stack .NET Developer with 4+ years of hands-on experience building production web applications. I care deeply about clean architecture, maintainable code, and shipping things that actually work.",
+        "summary": "Full Stack .NET Developer with a hands-on experience building production web applications. I care deeply about clean architecture, maintainable code, and shipping things that actually work.",
         "highlights": [
             { "icon": "fa-code",          "label": "16+ Projects built" },
             { "icon": "fa-graduation-cap","label": "5+ Certifications earned" },
@@ -38,7 +38,7 @@
         "email":    "emanramadan4353@gmail.com",
         "phone":    "+20 1097035837",
         "github":   "https://github.com/Eman-MeMo",
-        "linkedin": "https://www.linkedin.com/in/eman--ramadan/"
+        "linkedin": "https://linkedin.com/in/eman--ramadan"
     },
     "experience": [
         {
@@ -83,7 +83,7 @@
             "title": "Full Stack .NET Web Development",
             "place": "Information Technology Institute (ITI)",
             "desc":  "Developed REST APIs using C# and ASP.NET Core, built Angular front-end components, and managed data with SQL Server and Entity Framework.",
-            "link":  "https://drive.google.com/file/d/1DdMQ6NTJ3BdaznOTaO_cJ9ECaXLFjHwI/view?usp=sharing"
+            "link":  "https://drive.google.com/file/d/1C6bHmGthjEotzxBxfidur5GZ2Bb58cnJ/view"
         },
         {
             "date":  "Jul 2023 – Aug 2023",

@@ -111,7 +111,7 @@ nav {
     transition: background-color 0.3s;
 }
 
-.logo { height: 40px; width: 90px; }
+.logo { height: 40px; width: 40px; }
 
 nav ul {
     list-style: none;
@@ -883,8 +883,8 @@ nav ul li a.active-link::after { width: 100%; }
     .homeInfo p { max-width: 100%; text-align: left; }
     .homeImg { width: 280px; height: 280px; }
     .box1 { top: 60px; left: -10px; }
-    .box2 { top: 130px; right: -10px; }
-    .box3 { bottom: 20px; left: 10px; }
+    .box2 { top: 150px; right: -10px; }
+    .box3 { bottom: 0px; left: -10px; }
 
     .about-container { flex-direction: column; text-align: center; }
     .about-highlights { grid-template-columns: 1fr; }
@@ -924,5 +924,5 @@ nav ul li a.active-link::after { width: 100%; }
     .contact-container h2 { font-size: 26px; }
     .projects { grid-template-columns: 1fr; }
     .filter button { padding: 6px 13px; font-size: 12px; }
-    .resume, .contactME { padding: 0 16px; font-size: 13px; height: 40px; line-height: 40px; }
+    .resume, .contactME { padding: 0 16px; font-size: 13px; height: 40px; line-height: 40px;margin-bottom: 5px; }
 }

@@ -361,7 +361,7 @@ function renderFooter(profile) {
         </div>`;
 
     document.getElementById('footer-copyright').innerHTML =
-        `<p>&copy; ${new Date().getFullYear()} ${name}. All rights reserved.</p>`;
+        `<p>&copy; 2022 ${name}. All rights reserved.</p>`;
 }
 
 // ---- SCROLL SPY ----
