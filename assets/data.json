@@ -72,7 +72,7 @@
         "Integrated the .NET application with existing Python-based processing for data cleaning and name and national ID matching.",
         "Implemented background jobs, same-day result reuse for identical requests, and real-time progress updates using SignalR.",
         "Employee Performance Evaluation: Developed employee and manager workflows using ASP.NET Core and React, with organizational data, notifications, and SQL-based performance matrix rules.",
-        "AXISS Insurance ERP: Customized insurance workflows using JavaScript, YAML, and React components without direct access to the core source code."
+        "AXXIS Insurance ERP: Customized insurance workflows using JavaScript, YAML, and React components without direct access to the core source code."
       ],
       "tech": [
         "C#",
@@ -105,7 +105,7 @@
           ]
         },
         {
-          "name": "AXISS Insurance ERP",
+          "name": "AXXIS Insurance ERP",
           "label": "Insurance platform",
           "bullets": [
             "Customized insurance workflows using JavaScript, YAML, and React components without direct access to the core source code."
