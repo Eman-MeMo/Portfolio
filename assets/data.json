@@ -1,219 +1,307 @@
 {
-    "profile": {
-        "name": "Eman Ramadan",
-        "title": "Full Stack Developer",
-        "tagline": "I build scalable web apps — clean architecture, real-world impact.",
-        "typingTitles": [
-            "",
-            "Full Stack .NET Developer",
-            "Front-End Developer",
-            "Back-End Developer",
-            "Web Developer"
-        ],
-        "bio": "I am a Full Stack .NET Developer skilled in C#, ASP.NET Core, Entity Framework, SQL Server, and Angular, with experience in real-time communication using SignalR and database management. I specialize in building scalable web applications, implementing validation and auditing mechanisms, and applying design patterns for clean architecture. Passionate about problem-solving and continuous learning, I thrive in collaborative environments.",
-        "stats": [
-            { "icon": "fa-list-check", "label": "+16 Projects",              "boxClass": "box1" },
-            { "icon": "fa-file",       "label": "+5 Certificates",           "boxClass": "box2" },
-            { "icon": "fa-user",       "label": "Full Stack .NET Developer", "boxClass": "box3" }
-        ],
-        "social": {
-            "linkedin": "https://www.linkedin.com/in/eman--ramadan/",
-            "github":   "https://github.com/Eman-MeMo",
-            "email":    "emanramadan4353@gmail.com",
-            "facebook": "https://www.facebook.com/eman.ramadan.37201901/"
-        },
-        "resume": "assets/Eman_Ramadan_CV.pdf",
-        "photo":  "assets/Images/me.png"
-    },
-    "about": {
-        "summary": "Full Stack .NET Developer with a hands-on experience building production web applications. I care deeply about clean architecture, maintainable code, and shipping things that actually work.",
-        "highlights": [
-            { "icon": "fa-code",          "label": "16+ Projects built" },
-            { "icon": "fa-graduation-cap","label": "5+ Certifications earned" },
-            { "icon": "fa-briefcase",     "label": "Currently employed at MIC Life" },
-            { "icon": "fa-location-dot",  "label": "Cairo, Egypt" }
-        ]
-    },
-    "contact": {
-        "email":    "emanramadan4353@gmail.com",
-        "phone":    "+20 1097035837",
-        "github":   "https://github.com/Eman-MeMo",
-        "linkedin": "https://linkedin.com/in/eman--ramadan"
-    },
-    "experience": [
-        {
-            "title":   "Junior Software Developer",
-            "company": "Mohandes Life Insurance – MIC Life",
-            "date":    "Dec 2025 – Present",
-            "current": true,
-            "bullets": [
-                "Engineered a full-stack Anti-Money Laundering (AML) compliance system from the ground up, enabling real-time monitoring and detection of suspicious financial transactions using ASP.NET Core, Angular, and Python API integration.",
-                "Implemented real-time event broadcasting via SignalR & WebSockets, supporting both individual and bulk transaction workflows with advanced search and filtering capabilities.",
-                "Designed asynchronous background job processing pipelines that improved system throughput, reduced server load, and enhanced scalability under concurrent request loads.",
-                "Extended and customized the AXISS insurance core system using JavaScript and YAML configuration, successfully implementing complex business rules without source code access."
-            ],
-            "tech": ["ASP.NET Core", "Angular", "Python API", "SignalR", "WebSockets", "Background Jobs", "JavaScript", "YAML", "SQL Server"]
-        }
+  "profile": {
+    "name": "Eman Ramadan",
+    "title": "Software Developer | Backend & Full Stack .NET",
+    "tagline": "Backend and full-stack .NET development",
+    "typingTitles": [
+      "Backend .NET Developer",
+      "Full Stack .NET Developer"
     ],
-    "skillGroups": [
-        {
-            "group": "Frontend",
-            "icon": "fa-display",
-            "skills": ["HTML", "CSS", "JavaScript", "TypeScript", "Angular", "Bootstrap", "JQuery"]
-        },
-        {
-            "group": "Backend",
-            "icon": "fa-server",
-            "skills": ["C#", "ASP.NET Core MVC", "ASP.NET Core Web API", "LINQ", "ADO.NET", "OOP & Design Patterns"]
-        },
-        {
-            "group": "Database",
-            "icon": "fa-database",
-            "skills": ["SQL Server", "Entity Framework Core", "SSRS"]
-        },
-        {
-            "group": "Tools & Practices",
-            "icon": "fa-wrench",
-            "skills": ["Git & GitHub", "Clean Architecture", "SignalR", "JWT", "xUnit", "Serilog"]
-        }
+    "bio": "Software Developer with hands-on experience building web applications using C#, ASP.NET Core, SQL Server, Angular, and React. I work with REST APIs, authentication, background processing, and real-time features using SignalR.",
+    "stats": [
+      {
+        "icon": "fa-list-check",
+        "label": "+16 Projects",
+        "boxClass": "box1"
+      },
+      {
+        "icon": "fa-file",
+        "label": "+5 Certificates",
+        "boxClass": "box2"
+      },
+      {
+        "icon": "fa-user",
+        "label": "Full Stack .NET Developer",
+        "boxClass": "box3"
+      }
     ],
-    "internships": [
-        {
-            "date":  "Nov 2024 – Apr 2025",
-            "title": "Full Stack .NET Web Development",
-            "place": "Information Technology Institute (ITI)",
-            "desc":  "Developed REST APIs using C# and ASP.NET Core, built Angular front-end components, and managed data with SQL Server and Entity Framework.",
-            "link":  "https://drive.google.com/file/d/1C6bHmGthjEotzxBxfidur5GZ2Bb58cnJ/view"
-        },
-        {
-            "date":  "Jul 2023 – Aug 2023",
-            "title": "Backend Development - .NET",
-            "place": "Information Technology Institute (ITI)",
-            "desc":  "Designed backend services using ASP.NET Core, implemented business logic, and managed database relationships with Entity Framework.",
-            "link":  "https://drive.google.com/file/d/1qNwvO3l2rbWsogDj-MC7pvpcrOzcU9J5/view?usp=drive_link"
-        },
-        {
-            "date":  "Apr 2023 – May 2023",
-            "title": "Frontend Web Developer Intern",
-            "place": "SYNC",
-            "desc":  "Developed responsive web pages using HTML, CSS, and JavaScript.",
-            "link":  "https://drive.google.com/file/d/1STpaayA2yjlZHm6VkIqbolGqKwDQLOSm/view?usp=drive_link"
-        },
-        {
-            "date":  "Jun 2022 – Jul 2022",
-            "title": "Angular Development Intern",
-            "place": "Udacity (Ministry of Communications & IT)",
-            "desc":  "Built single-page applications with Angular and TypeScript, implemented reusable components, and worked with Angular CLI, services, and reactive forms.",
-            "link":  "https://drive.google.com/file/d/1cBXx_BLttu6HEbZtM6kivTHx1073iOAI/view?usp=drive_link"
-        },
-        {
-            "date":  "May 2021 – May 2022",
-            "title": "Web Development Intern",
-            "place": "SCCI – Cairo University",
-            "desc":  "Contributed to web development projects using HTML, CSS, and JavaScript.",
-            "link":  "https://drive.google.com/file/d/1hrajgKv9FNl2PJRbAymIry9oEbmZk9k9/view?usp=drive_link"
-        }
-    ],
-    "projects": [
-        {
-            "featured": true,
-            "category": "full",
-            "image": "assets/Images/Sanayii.png",
-            "name": "Sanayii",
-            "github": "https://github.com/Sanayii",
-            "desc": "Smart web platform that connects clients with certified artisans through secure contracts, smart matchmaking, and real-time support.",
-            "tech": "C#, ASP.NET Core Web API, Angular, ASP.NET MVC, SignalR, Identity, Entity Framework Core, SQL Server, Stripe, AI Chatbot, JWT Authentication",
-            "demo": "https://drive.google.com/file/d/1gGgQHaad1S1Mdb4IzkznRN33eVwe-c-9/view?usp=sharing"
-        },
-        {
-            "featured": true,
-            "category": "backend",
-            "image": "assets/Images/Clinic.png",
-            "name": "Clinic Management System",
-            "github": "https://github.com/Eman-MeMo/Clinic_Management_System",
-            "desc": "A complete medical management platform that handles appointments, sessions, medical records, prescriptions, billing, and multi-role authentication using Clean Architecture and strong backend logic.",
-            "tech": "ASP.NET Core Web API, SQL Server, Identity, Clean Architecture, MediatorR, FluentValidation, Strategy Design Pattern, XUnit, Serilog, JWT Authentication",
-            "demo": "https://drive.google.com/drive/folders/1l0FGy8sda8EzdngTGb7Aia9vZmXxRy3K?usp=drive_link"
-        },
-        {
-            "featured": false,
-            "category": "full",
-            "image": "assets/Images/Ecommerce.png",
-            "name": "Ecommerce",
-            "github": "https://github.com/Eman-MeMo/Ecommerce",
-            "desc": "Online store with auth, product, and order features.",
-            "tech": "ASP.NET Core MVC, Entity Framework Core, SQL Server, HTML5, CSS3, Bootstrap, JavaScript",
-            "demo": "https://drive.google.com/file/d/1WNK4NiR2G9VfyuYToy9NZUZOazt7vVIu/view?usp=sharing"
-        },
-        {
-            "featured": false,
-            "category": "full",
-            "image": "assets/Images/EbookSphere.png",
-            "name": "E-Book Sphere",
-            "github": "https://github.com/eBook-Sphere-2024",
-            "desc": "A comprehensive platform for creating, publishing, discovering, and reading eBooks, featuring multi-format export, collaboration, dashboards, and advanced semantic search.",
-            "tech": "Angular, Django REST Framework, Python, SQLite, ElasticSearch, Tesseract OCR, BERT, SentenceTransformer, WordNet, Google Gemini",
-            "demo": ""
-        },
-        {
-            "featured": false,
-            "category": "db",
-            "image": "assets/Images/Exam_Data_Manager.jpeg",
-            "name": "Exam Data Manager",
-            "github": "https://github.com/Eman-MeMo/Examination-System-DB",
-            "desc": "Structured DB with reports and auto grading.",
-            "tech": "Microsoft SQL Server, SSRS",
-            "demo": "https://drive.google.com/drive/folders/1LZLdJIxRKnO2hccGOJI3lWnZC3d2r86r?usp=sharing"
-        },
-        {
-            "featured": false,
-            "category": "frontend",
-            "image": "assets/Images/Smart_Exam_Portal.png",
-            "name": "Smart Exam Portal",
-            "github": "https://github.com/Eman-MeMo/Examination-System-JS",
-            "desc": "A web platform for student exams with auto-evaluation.",
-            "tech": "HTML, CSS, JS",
-            "demo": "https://drive.google.com/file/d/1VkPUs7uIBr90-nO9z1XqCYnfDkr8rOQM/view?usp=drive_link"
-        },
-        {
-            "featured": false,
-            "category": "full",
-            "image": "assets/Images/Coffee_Store.png",
-            "name": "Coffee Store",
-            "github": "https://github.com/Eman-MeMo/Coffee_Store",
-            "desc": "A desktop app to manage inventory and sales.",
-            "tech": "SQL Server, ADO.NET, Windows Forms",
-            "demo": "https://drive.google.com/file/d/1o4VENd2RC1REYXatX1WsPu-I_CVFzfGO/view?usp=drive_link"
-        },
-        {
-            "featured": false,
-            "category": "frontend",
-            "image": "assets/Images/Music_Player.png",
-            "name": "Music Player",
-            "github": "https://github.com/Eman-MeMo/Music-Player",
-            "desc": "Web audio player with playlist and controls.",
-            "tech": "HTML, CSS, JS",
-            "demo": "https://drive.google.com/file/d/1yl4w9O3nQUtzeNx17msj3MJiuFlQeI84/view?usp=drive_link"
-        },
-        {
-            "featured": false,
-            "category": "frontend",
-            "image": "assets/Images/Quiz_App.png",
-            "name": "Quiz App",
-            "github": "https://github.com/Eman-MeMo/Quiz-JS-App",
-            "desc": "Quiz App is a simple, interactive app for taking quizzes and tracking scores.",
-            "tech": "HTML, CSS, TypeScript, Angular",
-            "demo": "https://drive.google.com/file/d/13WP3DoZQtz5_OKBZoFSAvC_ukNGriP68/view?usp=drive_link"
-        },
-        {
-            "featured": false,
-            "category": "backend",
-            "image": "assets/Images/Exam_Console_App.png",
-            "name": "Exam Console App",
-            "github": "https://github.com/Eman-MeMo/Examination-System",
-            "desc": "Console app for managing and grading exams.",
-            "tech": "C#, OOP",
-            "demo": "https://drive.google.com/file/d/1oZzmcfKHf5_QmLmfdXBjFppx8vkORcMR/view?usp=drive_link"
-        }
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/eman--ramadan/",
+      "github": "https://github.com/Eman-MeMo",
+      "email": "emanramadan4353@gmail.com",
+      "facebook": "https://www.facebook.com/eman.ramadan.37201901/"
+    },
+    "resume": "assets/Eman_Ramadan_CV.pdf",
+    "photo": "assets/Images/me.png"
+  },
+  "about": {
+    "summary": "I am a Software Developer focused on backend and full-stack .NET development. I build web applications using C#, ASP.NET Core, SQL Server, Angular, and React. My experience includes developing RESTful APIs, working with Entity Framework Core, implementing authentication and authorization, and building real-time features with SignalR. I enjoy solving problems, learning new technologies, and writing maintainable code.",
+    "highlights": [
+      {
+        "icon": "fa-code",
+        "label": "16+ Projects built"
+      },
+      {
+        "icon": "fa-graduation-cap",
+        "label": "5+ Certifications earned"
+      },
+      {
+        "icon": "fa-briefcase",
+        "label": "Currently employed at MIC Life"
+      },
+      {
+        "icon": "fa-location-dot",
+        "label": "Cairo, Egypt"
+      }
     ]
+  },
+  "contact": {
+    "email": "emanramadan4353@gmail.com",
+    "phone": "+20 1097035837",
+    "github": "https://github.com/Eman-MeMo",
+    "linkedin": "https://linkedin.com/in/eman--ramadan"
+  },
+  "experience": [
+    {
+      "title": "Software Developer",
+      "company": "Mohandes Life Insurance – MIC Life",
+      "date": "Dec 2025 – Present",
+      "current": true,
+      "bullets": [
+        "Anti-Money Laundering (AML): Developed individual and bulk screening workflows, including search and filtering.",
+        "Integrated the .NET application with existing Python-based processing for data cleaning and name and national ID matching.",
+        "Implemented background jobs, same-day result reuse for identical requests, and real-time progress updates using SignalR.",
+        "Employee Performance Evaluation: Developed employee and manager workflows using ASP.NET Core and React, with organizational data, notifications, and SQL-based performance matrix rules.",
+        "AXISS Insurance ERP: Customized insurance workflows using JavaScript, YAML, and React components without direct access to the core source code."
+      ],
+      "tech": [
+        "C#",
+        "ASP.NET Core",
+        "SQL Server",
+        "Angular",
+        "React",
+        "SignalR",
+        "Background Jobs",
+        "Python integration",
+        "JavaScript",
+        "YAML"
+      ],
+      "projects": [
+        {
+          "name": "Anti-Money Laundering (AML)",
+          "label": "Compliance system",
+          "bullets": [
+            "Developed individual and bulk screening workflows, including search and filtering.",
+            "Integrated the .NET application with existing Python-based processing for data cleaning and name and national ID matching.",
+            "Implemented background jobs, same-day result reuse for identical requests, and real-time progress updates using SignalR."
+          ]
+        },
+        {
+          "name": "Employee Performance Evaluation",
+          "label": "Internal system",
+          "bullets": [
+            "Developed an employee evaluation system with manager and employee workflows, organizational hierarchy, notifications, and evaluation rules.",
+            "Implemented SQL-based organizational data access and performance matrix rules, including eligibility, headcounts, grade quotas, and exception handling."
+          ]
+        },
+        {
+          "name": "AXISS Insurance ERP",
+          "label": "Insurance platform",
+          "bullets": [
+            "Customized insurance workflows using JavaScript, YAML, and React components without direct access to the core source code."
+          ]
+        }
+      ]
+    }
+  ],
+  "skillGroups": [
+    {
+      "group": "Frontend",
+      "icon": "fa-display",
+      "skills": [
+        "Angular",
+        "React",
+        "TypeScript",
+        "JavaScript",
+        "HTML",
+        "CSS",
+        "Bootstrap",
+        "jQuery"
+      ]
+    },
+    {
+      "group": "Backend",
+      "icon": "fa-server",
+      "skills": [
+        "C#",
+        "ASP.NET Core Web API",
+        "ASP.NET Core MVC",
+        "REST APIs",
+        "LINQ",
+        "ADO.NET",
+        "OOP & Design Patterns"
+      ]
+    },
+    {
+      "group": "Database",
+      "icon": "fa-database",
+      "skills": [
+        "SQL Server",
+        "Entity Framework Core",
+        "SSRS"
+      ]
+    },
+    {
+      "group": "Tools & Practices",
+      "icon": "fa-wrench",
+      "skills": [
+        "Git & GitHub",
+        "Clean Architecture",
+        "CQRS",
+        "SignalR",
+        "JWT",
+        "xUnit",
+        "Serilog"
+      ]
+    }
+  ],
+  "internships": [
+    {
+      "date": "Nov 2024 – Apr 2025",
+      "title": "Full Stack .NET Web Development",
+      "place": "Information Technology Institute (ITI)",
+      "desc": "Developed REST APIs using C# and ASP.NET Core, built Angular front-end components, and managed data with SQL Server and Entity Framework.",
+      "link": "https://drive.google.com/file/d/1C6bHmGthjEotzxBxfidur5GZ2Bb58cnJ/view"
+    },
+    {
+      "date": "Jul 2023 – Aug 2023",
+      "title": "Backend Development - .NET",
+      "place": "Information Technology Institute (ITI)",
+      "desc": "Designed backend services using ASP.NET Core, implemented business logic, and managed database relationships with Entity Framework.",
+      "link": "https://drive.google.com/file/d/1qNwvO3l2rbWsogDj-MC7pvpcrOzcU9J5/view?usp=drive_link"
+    },
+    {
+      "date": "Apr 2023 – May 2023",
+      "title": "Frontend Web Developer Intern",
+      "place": "SYNC",
+      "desc": "Developed responsive web pages using HTML, CSS, and JavaScript.",
+      "link": "https://drive.google.com/file/d/1STpaayA2yjlZHm6VkIqbolGqKwDQLOSm/view?usp=drive_link"
+    },
+    {
+      "date": "Jun 2022 – Jul 2022",
+      "title": "Angular Development Intern",
+      "place": "Udacity (Ministry of Communications & IT)",
+      "desc": "Built single-page applications with Angular and TypeScript, implemented reusable components, and worked with Angular CLI, services, and reactive forms.",
+      "link": "https://drive.google.com/file/d/1cBXx_BLttu6HEbZtM6kivTHx1073iOAI/view?usp=drive_link"
+    },
+    {
+      "date": "May 2021 – May 2022",
+      "title": "Web Development Intern",
+      "place": "SCCI – Cairo University",
+      "desc": "Contributed to web development projects using HTML, CSS, and JavaScript.",
+      "link": "https://drive.google.com/file/d/1hrajgKv9FNl2PJRbAymIry9oEbmZk9k9/view?usp=drive_link"
+    }
+  ],
+  "projects": [
+    {
+      "featured": true,
+      "category": "full",
+      "image": "assets/Images/Sanayii.png",
+      "name": "Sanayii",
+      "github": "https://github.com/Sanayii",
+      "desc": "Smart web platform that connects clients with certified artisans through secure contracts, smart matchmaking, and real-time support.",
+      "tech": "C#, ASP.NET Core Web API, Angular, ASP.NET MVC, SignalR, Identity, Entity Framework Core, SQL Server, Stripe, AI Chatbot, JWT Authentication",
+      "demo": "https://drive.google.com/file/d/1gGgQHaad1S1Mdb4IzkznRN33eVwe-c-9/view?usp=sharing"
+    },
+    {
+      "featured": true,
+      "category": "backend",
+      "image": "assets/Images/Clinic.png",
+      "name": "Clinic Management System",
+      "github": "https://github.com/Eman-MeMo/Clinic_Management_System",
+      "desc": "A complete medical management platform that handles appointments, sessions, medical records, prescriptions, billing, and multi-role authentication using Clean Architecture and strong backend logic.",
+      "tech": "ASP.NET Core Web API, SQL Server, Identity, Clean Architecture, MediatR, FluentValidation, Strategy Design Pattern, xUnit, Serilog, JWT Authentication",
+      "demo": "https://drive.google.com/drive/folders/1l0FGy8sda8EzdngTGb7Aia9vZmXxRy3K?usp=drive_link"
+    },
+    {
+      "featured": false,
+      "category": "full",
+      "image": "assets/Images/Ecommerce.png",
+      "name": "Ecommerce",
+      "github": "https://github.com/Eman-MeMo/Ecommerce",
+      "desc": "Online store with auth, product, and order features.",
+      "tech": "ASP.NET Core MVC, Entity Framework Core, SQL Server, HTML5, CSS3, Bootstrap, JavaScript",
+      "demo": "https://drive.google.com/file/d/1WNK4NiR2G9VfyuYToy9NZUZOazt7vVIu/view?usp=sharing"
+    },
+    {
+      "featured": false,
+      "category": "full",
+      "image": "assets/Images/EbookSphere.png",
+      "name": "E-Book Sphere",
+      "github": "https://github.com/eBook-Sphere-2024",
+      "desc": "A team graduation project for creating, publishing, discovering, and reading eBooks, with BERT-based semantic search and Tesseract OCR text extraction.",
+      "tech": "Angular, Django REST Framework, Python, SQLite, ElasticSearch, Tesseract OCR, BERT, SentenceTransformer, WordNet, Google Gemini",
+      "demo": ""
+    },
+    {
+      "featured": false,
+      "category": "db",
+      "image": "assets/Images/Exam_Data_Manager.jpeg",
+      "name": "Exam Data Manager",
+      "github": "https://github.com/Eman-MeMo/Examination-System-DB",
+      "desc": "Structured DB with reports and auto grading.",
+      "tech": "Microsoft SQL Server, SSRS",
+      "demo": "https://drive.google.com/drive/folders/1LZLdJIxRKnO2hccGOJI3lWnZC3d2r86r?usp=sharing"
+    },
+    {
+      "featured": false,
+      "category": "frontend",
+      "image": "assets/Images/Smart_Exam_Portal.png",
+      "name": "Smart Exam Portal",
+      "github": "https://github.com/Eman-MeMo/Examination-System-JS",
+      "desc": "A web platform for student exams with auto-evaluation.",
+      "tech": "HTML, CSS, JS",
+      "demo": "https://drive.google.com/file/d/1VkPUs7uIBr90-nO9z1XqCYnfDkr8rOQM/view?usp=drive_link"
+    },
+    {
+      "featured": false,
+      "category": "full",
+      "image": "assets/Images/Coffee_Store.png",
+      "name": "Coffee Store",
+      "github": "https://github.com/Eman-MeMo/Coffee_Store",
+      "desc": "A desktop app to manage inventory and sales.",
+      "tech": "SQL Server, ADO.NET, Windows Forms",
+      "demo": "https://drive.google.com/file/d/1o4VENd2RC1REYXatX1WsPu-I_CVFzfGO/view?usp=drive_link"
+    },
+    {
+      "featured": false,
+      "category": "frontend",
+      "image": "assets/Images/Music_Player.png",
+      "name": "Music Player",
+      "github": "https://github.com/Eman-MeMo/Music-Player",
+      "desc": "Web audio player with playlist and controls.",
+      "tech": "HTML, CSS, JS",
+      "demo": "https://drive.google.com/file/d/1yl4w9O3nQUtzeNx17msj3MJiuFlQeI84/view?usp=drive_link"
+    },
+    {
+      "featured": false,
+      "category": "frontend",
+      "image": "assets/Images/Quiz_App.png",
+      "name": "Quiz App",
+      "github": "https://github.com/Eman-MeMo/Quiz-JS-App",
+      "desc": "Quiz App is a simple, interactive app for taking quizzes and tracking scores.",
+      "tech": "HTML, CSS, TypeScript, Angular",
+      "demo": "https://drive.google.com/file/d/13WP3DoZQtz5_OKBZoFSAvC_ukNGriP68/view?usp=drive_link"
+    },
+    {
+      "featured": false,
+      "category": "backend",
+      "image": "assets/Images/Exam_Console_App.png",
+      "name": "Exam Console App",
+      "github": "https://github.com/Eman-MeMo/Examination-System",
+      "desc": "Console app for managing and grading exams.",
+      "tech": "C#, OOP",
+      "demo": "https://drive.google.com/file/d/1oZzmcfKHf5_QmLmfdXBjFppx8vkORcMR/view?usp=drive_link"
+    }
+  ]
 }
